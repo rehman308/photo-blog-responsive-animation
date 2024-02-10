@@ -20,7 +20,11 @@ Iconic References: Utilizing Font Awesome icons, the project pays homage to key 
 
 How to Use:
 Clone the repository to your local machine.
+
 Open the index.html file in a web browser to view the webpage.
+
 Feel free to customize the content, images, and styling according to your preferences.
+
 Update the links in the HTML file to point to your own images or stylesheets if necessary.
+
 Special thanks to Gardevoir for providing the CSS framework used in this project.
