@@ -1,5 +1,7 @@
 # photo-blog-responsive-animation
 
+DEMO: https://rehman308.github.io/photo-blog-responsive-animation/
+
 Project Showcase: Fresh Photos - A Stunning Photo Blog
 
 Welcome to Fresh Photos, a visually captivating photo blog showcasing a diverse collection of high-quality images, from serene landscapes to bustling cityscapes and beyond. This project is a testament to the seamless fusion of design and functionality, providing users with an immersive experience through beautiful visuals and an intuitive user interface.
