@@ -1,3 +1,4 @@
+# photo-blog-responsive-animation
 
 Project Showcase: Fresh Photos - A Stunning Photo Blog
 
